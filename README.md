@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HrcanJan
 - 👀 I’m interested in sofware development and coding
-- 🌱 I’m currently working on personal projects
+- 🌱 I’m currently studying at FEI STU Applied Informatics: 2nd Semester, Master's Degree
+- 🌱 I’m a Bachelor of Science, majored in Applied Informatics at FEI STU
 - 💞️ I’m looking for a job
 - 📫 How to reach me: xhrcan@stuba.sk
 
